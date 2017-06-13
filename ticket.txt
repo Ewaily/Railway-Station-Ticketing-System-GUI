@@ -1,0 +1,1 @@
+Cairo Alex 56 75 Alex Cairo 60 75 Aswan Alex 42 110 Aswan Cairo 33 85 Alex Aswan 49 110 Cairo Aswan 23 85 Mansoura Alex 63 35 Mansoura Cairo 55 28 Portsaid Alex 20 40 rdf mf 3 5
